@@ -118,10 +118,10 @@ lazy_static! {
                     flat: Gas::zero(),
                     scale: Gas::new(33)
                 },
-                Ripemd160 => ScalingCost {
+                /*Ripemd160 => ScalingCost {
                     flat: Gas::zero(),
                     scale: Gas::new(35)
-                }
+                }*/
             }
         },
 
